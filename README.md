@@ -6,7 +6,7 @@ _Teaching computers to learn :)_
 
 ## About Me 🚀
 
-I am a **Computer Scientist** passionate about **Artificial Intelligence** and **Machine Learning** research. After graduating from _École CentraleSupélec_ at _Paris-Saclay University_, France, and from the _Instituto Tecnológico de Aeronáutica (ITA)_, Brazil, **I will join Google DeepMind as a Research Engineer**, focusing on **sustainability** and environmental ML solutions. My research interests span computer vision, representation learning, generative models, multimodal learning, and responsible AI. I am particularly interested in how machine learning can address real-world challenges and create meaningful impact. I’m excited about the future of AI and eager to contribute to meaningful advancements in the field :)
+I am a **Computer Scientist** passionate about **Artificial Intelligence** and **Machine Learning** research. After graduating from _École CentraleSupélec_ at _Paris-Saclay University_, France, and from the _Instituto Tecnológico de Aeronáutica (ITA)_, Brazil, **I will join Google DeepMind as a Research Engineer**, focusing on **sustainability** and environmental ML solutions. My research interests span computer vision, representation learning, generative models, multimodal learning, and responsible AI. I am particularly interested in how machine learning can address real-world challenges and create meaningful impact :)
 
 <h3 align="center">
 <img src="https://github.com/user-attachments/assets/f99ef2a7-82e1-4405-ae78-42d661e81d2f" alt="Creating Amazing Projects!" width=250>
